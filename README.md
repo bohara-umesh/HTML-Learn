@@ -25,8 +25,8 @@
   </div>
   
   -[📖 Chapter-1](
-    -[Welcome](#welcome)
-    -[Introduction](#introduction)
-    -[Why HTML ?](#why-html)
-    -[Tools Required](#tools-required)
-    -[HTML Page Structure](#page-structure)
+    - [Welcome](#welcome)
+    - [Introduction](#introduction)
+    - [Why HTML ?](#why-html)
+    - [Tools Required](#tools-required)
+    - [HTML Page Structure](#page-structure)
